@@ -4,6 +4,7 @@ This repository contains scripts used in the analysis of Wang et al. 2021 Late Q
 
 
 Script | used in which section of the paper | function
+--- | --- | --- 
 bam_header_subset.R | Supplementary Information section 9.2.4 | to subset headers of bam file to include only reference headers appeared in the alignments
 Plant_normalization.R | Supplementary Information section 9.5.2 | plant reads normalisation 
 paleoDistributionModel.R | Supplementary Information section 12.2 | ancient human distribution niche modelling
