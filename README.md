@@ -9,4 +9,7 @@ bam_header_subset.R | Supplementary Information section 9.2.4 | to subset header
 Plant_normalization.R | Supplementary Information section 9.5.2 | plant reads normalisation 
 paleoDistributionModel.R | Supplementary Information section 12.2 | ancient human distribution niche modelling
 ExtractAndMapModels.R | Supplementary Information section 12.2 | mapping human niche modelling results to each eDNA site
-get_consensus.py | Supplementary Information section 14.1.2 | to creat a consensus sequence from the multiple sequence alignment 
+get_consensus.py | Supplementary Information section 14.1.2 | to creat a consensus sequence from the multiple sequence alignment
+Animal_spatiotenporal_modelling.R ｜ Supplementary Information section 13.3 ｜ 
+INLA_ST_functions.R ｜ ｜
+spde-book-functions.R ｜ ｜
