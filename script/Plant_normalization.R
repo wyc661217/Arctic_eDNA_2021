@@ -3,7 +3,7 @@
 
 ##########################
 #This R script applies 6 different normalization methods for eliminating the effect of sequencing depth on the taxa abundance
-#YAntonio Fernandez Guerra, antonio.fernandez-guerra@sund.ku.dk
+#Yucheng Wang yw502@cam.ac.uk and Antonio Fernandez Guerra, antonio.fernandez-guerra@sund.ku.dk
 
 
 
